@@ -1,0 +1,8 @@
+﻿  main.cpp
+  mcman.cpp
+  rng.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  exercise2 select a random value for cos theta.vcxproj -> F:\F백업 최종\수업\2015가을\몬테칼로 방사선 해석\monte carlo radiation analysis\exercise2 select a random value for cos theta\Release\exercise2 select a random value for cos theta.exe
